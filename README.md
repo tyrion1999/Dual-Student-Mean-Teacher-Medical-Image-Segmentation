@@ -2,7 +2,7 @@
 by Yang Zuo, Xiurui Guo, Chunmeng Kang, Guohui Cai, Xiang Liu, Lei Lyu
 
 ### Introduction
-This repository is for our paper: Dual-Student-Mean-Teacher-Medical-Image-Segmentation
+This repository is for our paper: Prototype-Denoising Dual Student Mean Teacher for Voxel-wise Medical Image Segmentation
 
 ### Requirements
 This repository is based on:
