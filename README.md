@@ -42,7 +42,7 @@ python ./code/train.py
 python ./code/test_3d.py 
 --root_path 'home/stu/zy/data/LA' 
 --model 'vnet' 
---gpu 0Test the biou;
+--gpu 0
 ```
 
 
