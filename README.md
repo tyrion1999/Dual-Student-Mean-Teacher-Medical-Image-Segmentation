@@ -10,7 +10,9 @@ This repository is based on PyTorch 1.8.0, CUDA 11.1 and Python 3.8.0; All exper
 
 ### Datasets:
 For Left Atrium dataset: URL：https://pan.baidu.com/s/16A5GrrmvkJ1Z_3kzaitoTw CODE:1234
+
 For Pancreas-CT dataset: URL: https://pan.baidu.com/s/18COmrJfk8lrcphBE_j_paw CODE:1234 
+
 For acdc dataset: URL:https://pan.baidu.com/s/1R1bDJgVNEoncyD-gb0Eayw CODE:1234 
 
 ### Usage
