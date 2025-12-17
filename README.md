@@ -85,10 +85,12 @@ python ./code/train.py \
 If you find this repository or our paper useful in your research, please consider citing:
 
 ### APA
-
+```
 Zuo, Y., Zhang, R., Guo, X., Kang, C., & Lyu, L. (2025). Decoupling mean teacher via Dual students: a prototype-based framework for semi-supervised medical segmentation. Complex & Intelligent Systems, 11(8), 353. https://doi.org/10.1007/s40747-025-01964-z
+```
 
 ### BibTeX
+```bash
 @article{Zuo2025DSMT,
   title   = {Decoupling mean teacher via Dual students: a prototype-based framework for semi-supervised medical segmentation},
   author  = {Zuo, Yang and Zhang, Renfeng and Guo, Xiurui and Kang, Chunmeng and Lyu, Lei},
@@ -99,6 +101,7 @@ Zuo, Y., Zhang, R., Guo, X., Kang, C., & Lyu, L. (2025). Decoupling mean teacher
   pages   = {353},
   doi     = {10.1007/s40747-025-01964-z}
 }
+```
 Acknowledgements
 
 Our code is adapted from the following excellent repositories:
