@@ -1,8 +1,8 @@
-# [Dual-Student-Mean-Teacher-Medical-Image-Segmentation](https://github.com/tyrion1999/Dual-Student-Mean-Teacher-Medical-Image-Segmentation)
+# [Decoupling Mean Teacher via Dual Students: A Prototype-based Framework for Semi-Supervised Medical Segmentation](https://github.com/tyrion1999/Dual-Student-Mean-Teacher-Medical-Image-Segmentation)
 by Yang Zuo, Xiurui Guo, Chunmeng Kang, Guohui Cai, Xiang Liu, Lei Lyu
 
 ### Introduction
-This repository is for our paper: Prototype-Denoising Dual Student Mean Teacher for Voxel-wise Medical Image Segmentation
+This repository is for our paper: Decoupling Mean Teacher via Dual Students: A Prototype-based Framework for Semi-Supervised Medical Segmentation
 
 ### Requirements
 This repository is based on:
